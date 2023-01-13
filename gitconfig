@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = pauly.lydia@gmail.com
+	name = Lydia Pauly
